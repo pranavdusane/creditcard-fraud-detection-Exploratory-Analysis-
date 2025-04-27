@@ -44,3 +44,6 @@ Highly imbalanced with only 0.172% fraudulent transactions.
 *Results:-
 Random Forest achieved the best performance after SMOTE resampling.
 Emphasis was placed on Recall to minimize false negatives (i.e., missing fraudulent transactions).
+
+
+for code go to https://github.com/pranavdusane/creditcard-fraud-detection-Exploratory-Analysis-
